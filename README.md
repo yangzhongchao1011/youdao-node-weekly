@@ -15,3 +15,10 @@
 #|日期|标题
 ------------ | ------------- | -------------
 总榜 | 2019-1-15 | [2018年终总榜发布](https://mp.weixin.qq.com/s/je7jfQ4L3fYv6zcK6qVYIw)
+102 | 2018-12-26 | [逢“8”的年份，从来不平凡](https://mp.weixin.qq.com/s/Pv9hMu5iyWyFs1xqJyUlhw)
+101 | 2018-12-18 | [华为员工持股98%，任正非不到2%么？](https://mp.weixin.qq.com/s/QyCxY1jApPVkbhvF08Q-gg)
+100(404榜) | 2018-12-11 | [那些被404的10w+大号，你还记得么？](https://mp.weixin.qq.com/s/K0j_GoR4_KWvnNROxDqroQ)
+100(干货榜) | 2018-12-11 | [最全职场干货你收藏了么？](https://mp.weixin.qq.com/s/4RfTIFFyX0nUMtuIPYyFMg)
+100(回忆榜) | 2018-12-11 | [2019会是过去10年最差一年么？](https://mp.weixin.qq.com/s/V9Ehk0hVR8WlWIZuMtpjAw)
+99 | 2018-12-4 | [年轻时候的毛泽东，从来不焦虑](https://mp.weixin.qq.com/s/G57n7KuWBlsZLY1wRVYBxg)
+98 | 2018-11-27 | [如何从一界屌丝走向人生巅峰？](https://mp.weixin.qq.com/s/zGxtDE0wnjdW52tRVIXV6Q)
