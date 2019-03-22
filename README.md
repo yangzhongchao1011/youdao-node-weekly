@@ -3,6 +3,8 @@
 ### 2019年
 #|日期|标题
 ------------ | ------------- | -------------
+111 | 2019-3-19 | [大裁员背后的机遇：60余个KOL，9个热门领域，40个新未来](https://mp.weixin.qq.com/s/D5cpgUXEq2yEztEGyb6K1A)
+110 | 2019-3-15 | [34款Windows桌面神器：最好用的效率助手集合](https://mp.weixin.qq.com/s/HkyNJHxBevO40NsXzt9Vsg)
 109| 2019-3-5 | [3000万富翁每天可以花多少钱？](https://mp.weixin.qq.com/s/gxux2i3I1ESfHNvypTl4BA)
 108 | 2019-2-27| [隐秘知识：45位超级富翁的行为和心理特征 ](https://mp.weixin.qq.com/s/nsW8cUl1K1Nj6GlThfiiPA)
 107 | 2019-2-20 | [“中产低层”家族：寒门难贵，豪门难败 ](https://mp.weixin.qq.com/s/OgwUWjUsLF90tj7BXVgxjg)
