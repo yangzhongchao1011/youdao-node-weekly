@@ -3,6 +3,8 @@
 ### 2019年
 #|日期|标题
 ------------ | ------------- | -------------
+113 | 2019-4-2 | [别得罪中年人，他们狠起来什么都学](https://mp.weixin.qq.com/s/staB49jGi2fhlit7c1rHRg)
+112 | 2019-3-27 | [写给苦逼青年的致富经](https://mp.weixin.qq.com/s/Pq91uMl4NkwpWn4D0GbD3A)
 111 | 2019-3-19 | [大裁员背后的机遇：60余个KOL，9个热门领域，40个新未来](https://mp.weixin.qq.com/s/D5cpgUXEq2yEztEGyb6K1A)
 110 | 2019-3-15 | [34款Windows桌面神器：最好用的效率助手集合](https://mp.weixin.qq.com/s/HkyNJHxBevO40NsXzt9Vsg)
 109| 2019-3-5 | [3000万富翁每天可以花多少钱？](https://mp.weixin.qq.com/s/gxux2i3I1ESfHNvypTl4BA)
